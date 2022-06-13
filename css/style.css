@@ -1,0 +1,26 @@
+#banner{
+ width:30%;
+}
+
+body{
+background: #CCCCCC;
+} 
+
+h1{
+background-color: skyblue;
+}
+
+p{
+    text-align: center;
+
+}
+
+.font{
+font-size: 30px;
+
+}
+
+em{
+
+    color: blueviolet;
+}
